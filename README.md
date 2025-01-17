@@ -5,8 +5,8 @@ This repository contains documentation and images for *Hackathon Day 2*.
 
 ## Documentation
 
-- 📄 [Technical Foundation Document (DOCX)](https://github.com/username/repository-name/blob/main/Hackathon_Day2.docx)  
-- 🖼 [Project Images (PDF)](https://github.com/username/repository-name/blob/main/Hackathon_Pictures.pdf)  
+- 📄 [Technical Foundation Document (DOCX)](https://github.com/mayamohsin/marketplace_builder_hackathon_2025/blob/main/Hackathon_Day2.docx)  
+- 🖼 [Project Images (PDF)](https://github.com/mayamohsin/marketplace_builder_hackathon_2025/blob/main/Hackathon_Pictures.pdf)  
 
 ## Instructions
 
